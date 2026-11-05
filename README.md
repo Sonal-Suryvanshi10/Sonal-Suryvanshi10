@@ -1,6 +1,6 @@
 # 👋 Hey, I\'m Sonal Suryvanshi! 
 
-### 🚀 Computer Science Engineer \| Frontend Developer \| MERN Stack Developer {#computer-science-engineer-frontend-developer-mern-stack-developer align="left"}
+<h3 align="left">🚀 Frontend Developer | MERN Stack Developer</h3>
 
 I\'m a Computer Science Engineering graduate who enjoys turning ideas
 into real-world web applications. I love building responsive user
